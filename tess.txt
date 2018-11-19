@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 abc
+=======
+ahihik
+>>>>>>> 8ff5cd5066b6a5c3e511fec99032fa75435d2a93
